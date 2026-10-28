@@ -1,7 +1,4 @@
 c<div align="center">
-git add README.md
-git commit -m "style: amélioration du README avec badges et style sci-fi"
-git push origin main
 # 🚀 CHEIKHOU SENE
 [photo de profil](https://github.com/senec434-create/seneportfolio/blob/main/photocheikhou2.jpg)
 ### Élève-ingénieur · ENSEEIHT (N7) Toulouse · Aéronautique & Énergie
