@@ -93,7 +93,9 @@ Un **JEU SNAKE2000 LANGUAGE C** L'aventure d'un serpent qui se nourrit pour gran
 <img src="divider(1).png" width="100%">
 
 ## 🧰 ARSENAL
+
 <img src="divider(1).png" width="100%">
+
 | Domaine | Ce que je maîtrise |
 |---|---|
 | 💻 **Programmation** | Python et langage C (traitement d'images, probabilités, évaluation de modèles) |
@@ -109,6 +111,7 @@ Un **JEU SNAKE2000 LANGUAGE C** L'aventure d'un serpent qui se nourrit pour gran
 
 ## 🗺️ TRAJECTOIRE
 <img src="divider(1).png" width="100%">
+
 | Étape | Détail |
 |---|---|
 | 🎓 **ENSEEIHT (N7)** · Toulouse INP | Cycle ingénieur, 1ère année |
@@ -124,6 +127,7 @@ Un **JEU SNAKE2000 LANGUAGE C** L'aventure d'un serpent qui se nourrit pour gran
 
 ## 🌌 HORS ORBITE
 <img src="divider(1).png" width="100%">
+
 - 🤝 **Bénévolat** · Action Solidaire : accompagnement de jeunes en difficulté dans leur vie sociale
 - 🎨 **Art & graphisme** · participation à la biennale d'art de mon collège
 - 🏸 **Badminton** · 🎵 **Musique**
@@ -132,7 +136,9 @@ Un **JEU SNAKE2000 LANGUAGE C** L'aventure d'un serpent qui se nourrit pour gran
 <img src="divider(1).png" width="100%">
 
 ## 🛠️ PROCHAINES MISSIONS
+
 <img src="divider(1).png" width="100%">
+
 - [ ] Décrocher un stage ingénieur (aéronautique ou énergie)
 - [ ] Choisir ma spécialisation à l'ENSEEIHT
 - [ ] Passer le TOEIC (2027)
