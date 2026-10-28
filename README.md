@@ -1,4 +1,4 @@
-.<div align="center">
+ <div align="center">
 # 🚀 CHEIKHOU SENE
 [photo de profil](https://github.com/senec434-create/seneportfolio/blob/main/photocheikhou2.jpg)
 ### Élève-ingénieur · ENSEEIHT (N7) Toulouse · Aéronautique & Énergie
@@ -111,7 +111,7 @@ Un **capteur de niveau de liquide** conçu pour des applications industrielles, 
 
 [![Email](https://img.shields.io/badge/Email-senec434@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senec434@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CheikhouSene-D14836?style=for-the-badge&logo=gmail&logoColor=blue)](https://www.linkedin.com/in/cheikhou-sene-2a1406361)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Voir_le_site-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://TON-PSEUDO.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Voir_le_site-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://senec434-create.github.io/seneportfolio/)
 
 <div align="center">
 
