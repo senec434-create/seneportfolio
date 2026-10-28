@@ -1,6 +1,5 @@
 . <div align="center">
 # 🚀 CHEIKHOU SENE
-<img src="assets/banner(3).gif" alt="Bannière Cheikhou Sene" width="100%">
 [photo de profil](https://github.com/senec434-create/seneportfolio/blob/main/photocheikhou2.jpg)
 ### Élève-ingénieur · ENSEEIHT (N7) Toulouse · Aéronautique & Énergie & ELectronique & electrotechnique & automatique 
 
