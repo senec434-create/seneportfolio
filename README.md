@@ -110,7 +110,7 @@ Un **capteur de niveau de liquide** conçu pour des applications industrielles, 
 ## 📡 ÉTABLIR LE CONTACT
 
 [![Email](https://img.shields.io/badge/Email-senec434@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senec434@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mon_profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TON-PROFIL)
+[![LinkedIn](https://www.linkedin.com/in/cheikhou-sene-2a1406361?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Voir_le_site-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://TON-PSEUDO.github.io)
 
 <div align="center">
