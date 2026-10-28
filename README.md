@@ -22,7 +22,7 @@
 ---
 <img src="divider(1).png" width="100%">
 
- ### 🛰️ TRANSMISSION D'ENTRÉE
+ ## 🛰️ TRANSMISSION D'ENTRÉE
  
 <img src="divider(1).png" width="100%">
 
@@ -37,8 +37,11 @@
 > STATUT           : Systèmes en ligne ✅
 ```
 <img src="divider(1).png" width="100%">
- 👨‍🚀 À PROPOS
+
+## 👨‍🚀 À PROPOS
+ 
 <img src="divider(1).png" width="100%">
+
 Passionné par l'**aéronautique, le spatial et l'énergie**, je me forme à l'ENSEEIHT après une classe préparatoire MPSI/MP et des licences de mathématiques. J'aime les problèmes qui mélangent **théorie et mise en œuvre** : modéliser, coder, mesurer, vérifier.
 
 Mon cap : une carrière d'ingénieur **à l'international**, au cœur des technologies qui font avancer les transports et l'énergie de demain.
