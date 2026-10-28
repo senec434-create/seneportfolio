@@ -38,7 +38,7 @@
 ```
 <img src="divider(1).png" width="100%">
 
-##  👨‍🚀 À PROPOS
+##   👨‍🚀 À PROPOS
  
 <img src="divider(1).png" width="100%">
 
@@ -51,8 +51,10 @@ Mon cap : une carrière d'ingénieur **à l'international**, au cœur des techno
 🧪 MISSIONS ACCOMPLIES
 <img src="divider(1).png" width="100%">
 
-### 🛸 Mission 01 · Reconnaissance de caractères manuscrits
+###  🛸 Mission 01 · Reconnaissance de caractères manuscrits
+
 <img src="mission-01-pixelisation.gif" width="100%">
+
 > *TIPE MPSI · Mathématiques & Informatique*
 
 Une **IA en Python** capable de reconnaître des caractères écrits à la main.
