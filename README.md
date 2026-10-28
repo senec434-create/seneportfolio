@@ -49,7 +49,7 @@ Une **IA en Python** capable de reconnaître des caractères écrits à la main.
 | **Notions clés** | Probabilités · matrices de vérité · traitement d'images · programmation Python |
 | **Stack** | `Python` |
 | **Résultats** | <!-- Ajoute ici ton taux de reconnaissance ou une image de démo --> |
-| **Code** | 👉 [Voir le dépôt](https://github.com/TON-PSEUDO/NOM-DU-DEPOT-RECONNAISSANCE) |
+| **Rapport/codes** | 👉 [Voir le dépôt](https://github.com/TON-PSEUDO/NOM-DU-DEPOT-RECONNAISSANCE) |
 
 ### ⚡ Mission 02 · Détecteur de niveau de liquide pour l'industrie
 > *TIPE MP · Physique*
@@ -60,7 +60,6 @@ Un **capteur de niveau de liquide** conçu pour des applications industrielles, 
 |---|---|
 | **Ce que j'ai fait** | Conception et étude du dispositif, analyse des mesures et de leurs incertitudes |
 | **Notions clés** | Amplificateurs · filtres · physique des matériaux · électricité · incertitudes de mesure |
-| **Résultats** | <!-- Ajoute ici une courbe, un schéma ou une photo du montage --> |
 | **Documents-1** | 👉 [Voir le rapport](https://github.com/senec434-create/seneportfolio/blob/main/DETECTEUR-DE-NIVEAU-DE%20LIQUIDE.pdf) |
 | **Documents-2** | 👉[Voir la présentation ](https://github.com/senec434-create/seneportfolio/blob/main/Diapo.3.21.pdf)
 ---
