@@ -11,13 +11,7 @@
 
 
 
-![ENSEEIHT](https://img.shields.io/badge/ENSEEIHT-1ère_année-0B3D91?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Language C](https://img.shields.io/badge/LangageC-3776AB?style=for-the-badge&logo=python&logoColor=pink)
-![Mathématiques](https://img.shields.io/badge/Mathématiques-Licence-6C3BAA?style=for-the-badge)
-![Mobilité](https://img.shields.io/badge/Mobilité-Internationale-00B3A4?style=for-the-badge)
- 
-</div>
+<img src="hud.png" width="100%">
 
 ---
 <img src="divider(1).png" width="100%">
