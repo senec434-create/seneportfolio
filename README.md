@@ -56,6 +56,18 @@ Une **IA en Python** capable de reconnaître des caractères écrits à la main.
 
 Un **capteur de niveau de liquide** conçu pour des applications industrielles, basé sur des **oscillateurs quasi sinusoïdaux**.
 
+### 🛸 Mission 03 · Reconstruction du jeu SNake 2000
+> *PROJET 1ÈRE ANNÉE  · Mathématiques & Informatique*
+
+Un **JEU SNAKE2000 LANGUAGE C** L'aventure d'un serpent qui se nourrit pour grandir en évitant les obstacles dans la savane .
+
+| | |
+|---|---|
+| **Ce que j'ai fait** |codes pour permettre à une personne de jouer en imprimant (affichage)une savane,un serpent,une pomme ;en déplaçant le serpent à l'aide du clavier d'ordinateur  |
+| **Notions clés** | Probabilités · traitement d'images · programmation langage C,optimisation |
+| **Stack** | `langage C` |
+| **Rapport/codes** | 👉 [Voir le dépôt](https://github.com/TON-PSEUDO/NOM-DU-DEPOT-RECONNAISSANCE) |
+
 | | |
 |---|---|
 | **Ce que j'ai fait** | Conception et étude du dispositif, analyse des mesures et de leurs incertitudes |
