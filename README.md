@@ -130,7 +130,7 @@ Un **JEU SNAKE2000 LANGUAGE C** L'aventure d'un serpent qui se nourrit pour gran
 |---|---|
 | 🎓 **ENSEEIHT (N7)** · Toulouse INP | Cycle ingénieur, 1ère année |
 | 📚 **Classes préparatoires** | MPSI puis MP, avec deux TIPE (voir missions ci-dessus) |
-| ➗ **Licences de mathématiques** | Université de Lille (L1, L2) · Université Paul Sabatier (L3) |
+| ➗ **Licences de mathématiques** | Université de Lille (L1, L2)  |
 <img src="divider(1).png" width="100%">
 
 **Expériences de terrain** (hôtellerie & restauration, 2024 → 2026) : valet de chambre en hôtels trois étoiles, agent d'entretien, agent polyvalent de restaurant. Du concret, de la rigueur et de l'autonomie, en parallèle des études.
