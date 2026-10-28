@@ -98,7 +98,7 @@ Un **JEU SNAKE2000 LANGUAGE C** L'aventure d'un serpent qui se nourrit pour gran
 | **Ce que j'ai fait** |codes pour permettre à une personne de jouer en imprimant (affichage)une savane,un serpent,une pomme ;en déplaçant le serpent à l'aide du clavier d'ordinateur  |
 | **Notions clés** | Probabilités · traitement d'images · programmation langage C,optimisation |
 | **Stack** | `langage C` |
-| **Rapport/codes** | 👉 [Voir le dépôt](https://github.com/TON-PSEUDO/NOM-DU-DEPOT-RECONNAISSANCE) |
+| **Rapport/codes** | 👉 [Voir le dépôt](https://github.com/senec434-create/seneportfolio/blob/main/P3SNAKETHIOUNE-SENE.c) |
 
 
 <img src="divider(1).png" width="100%">
