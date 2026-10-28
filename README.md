@@ -48,7 +48,8 @@ Mon cap : une carrière d'ingénieur **à l'international**, au cœur des techno
 
 ---
 <img src="divider(1).png" width="100%">
-🧪 MISSIONS ACCOMPLIES
+
+## 🧪 MISSIONS ACCOMPLIES
 <img src="divider(1).png" width="100%">
 
 ###  🛸 Mission 01 · Reconnaissance de caractères manuscrits
