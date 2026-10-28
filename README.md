@@ -19,7 +19,7 @@
 </div>
 
 ---
-
+<img src="divider(1).png" width="100%">
 ## 🛰️ TRANSMISSION D'ENTRÉE
 
 ```text
