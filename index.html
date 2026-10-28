@@ -1,11 +1,93 @@
+```html
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <meta charset="UTF-8">
-    <title>Test de mon portfolio</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Portfolio de Cheikhou Sene, étudiant ingénieur à l'ENSEEIHT, passionné par l'aérospatial, l'énergie et les sciences.">
+  <title>Cheikhou Sene | Portfolio spatial</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
 </head>
 <body>
-    <h1>MON PORTFOLIO FONCTIONNE ! 🚀</h1>
-    <p>Mon site est en cours de création.</p>
-</body>
-</html>
+  <canvas id="stars"></canvas>
+
+  <header class="navbar">
+    <a href="#accueil" class="logo">CS<span>.</span></a>
+    <nav>
+      <a href="#apropos">À propos</a>
+      <a href="#projets">Projets</a>
+      <a href="#competences">Compétences</a>
+      <a href="#contact" class="nav-contact">Me contacter ↗</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero" id="accueil">
+      <div class="hero-content reveal">
+        <p class="eyebrow"><span class="status-dot"></span> EN RECHERCHE DE NOUVEAUX HORIZONS</p>
+        <h1>Explorer.<br>Comprendre.<br><span>Créer le futur.</span></h1>
+        <p class="intro">
+          Je suis Cheikhou Sene, étudiant ingénieur à l'ENSEEIHT.
+          Je m'intéresse à l'aérospatial, à l'énergie et aux technologies
+          qui repoussent les limites du possible.
+        </p>
+        <div class="hero-buttons">
+          <a href="#projets" class="button primary">Découvrir mes projets ↘</a>
+          <a href="#apropos" class="button secondary">Mon parcours</a>
+        </div>
+        <div class="hero-caption">PORTFOLIO PERSONNEL · 2026</div>
+      </div>
+
+      <div class="universe reveal" aria-label="Illustration d'une planète dans l'espace">
+        <div class="orbit orbit-one"></div>
+        <div class="orbit orbit-two"></div>
+        <div class="planet">
+          <div class="planet-light"></div>
+          <div class="planet-ring"></div>
+        </div>
+        <span class="planet-label label-one">01 — SCIENCE</span>
+        <span class="planet-label label-two">02 — INGÉNIERIE</span>
+        <span class="planet-label label-three">03 — EXPLORATION</span>
+        <div class="planet-moon"></div>
+      </div>
+      <a href="#apropos" class="scroll-cue">DÉFILER POUR EXPLORER ↓</a>
+    </section>
+
+    <section class="section about" id="apropos">
+      <div class="section-heading reveal">
+        <p class="eyebrow">01 / QUI SUIS-JE ?</p>
+        <h2>La curiosité comme<br><span>boussole.</span></h2>
+      </div>
+      <div class="about-grid">
+        <div class="about-text reveal">
+          <p>
+            Étudiant ingénieur à l'ENSEEIHT à Toulouse, je développe
+            mes compétences scientifiques et techniques à travers
+            les mathématiques, la programmation et l'expérimentation.
+          </p>
+          <p>
+            Ce qui me motive : comprendre les systèmes complexes,
+            transformer des idées en solutions concrètes et explorer
+            les technologies qui façonneront le monde de demain.
+          </p>
+        </div>
+        <div class="info-card reveal">
+          <div class="info-row"><span>FORMATION</span><strong>ENSEEIHT — Toulouse</strong></div>
+          <div class="info-row"><span>DOMAINES</span><strong>Aérospatial · Énergie</strong></div>
+          <div class="info-row"><span>APPROCHE</span><strong>Science & créativité</strong></div>
+          <div class="info-row"><span>OBJECTIF</span><strong>Innover avec du sens</strong></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section projects" id="projets">
+      <div class="section-heading reveal">
+        <p class="eyebrow">02 / LABORATOIRE</p>
+        <h2>Des idées qui prennent<br><span>forme.</span></h2>
+        <p class="section-description">Quelques projets pour passer de la théorie à la pratique.</p>
+      </div>
+      <div class="project-grid">
+        <article class="project-card reveal">
+          <div class="project-art art-ai"><span class="art-symbol">⌘</span><span class="art-index">PROJET 01</span></div>
+          <div class="project-body
