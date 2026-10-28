@@ -81,7 +81,7 @@ Un **JEU SNAKE2000 LANGUAGE C** L'aventure d'un serpent qui se nourrit pour gran
 
 | Domaine | Ce que je maîtrise |
 |---|---|
-| 💻 **Programmation** | Python (traitement d'images, probabilités, évaluation de modèles) |
+| 💻 **Programmation** | Python et langage C (traitement d'images, probabilités, évaluation de modèles) |
 | 📐 **Mathématiques** | Probabilités, matrices, analyse (prépa MPSI/MP + licences de maths) |
 | 🔌 **Physique & électronique** | Oscillateurs, amplificateurs, filtres, électricité, physique des matériaux |
 | 📏 **Méthode scientifique** | Mesures, calcul d'incertitudes, rigueur expérimentale |
