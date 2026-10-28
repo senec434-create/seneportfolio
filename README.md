@@ -1,7 +1,7 @@
 c<div align="center">
 
 # 🚀 CHEIKHOU SENE
-
+[photo](https://github.com/senec434-create/seneportfolio/blob/main/photocheikhou2.jpg)
 ### Élève-ingénieur · ENSEEIHT (N7) Toulouse · Aéronautique & Énergie
 
 *Des équations aux systèmes qui fonctionnent : je transforme les maths et la physique en solutions concrètes.*
@@ -10,7 +10,7 @@ c<div align="center">
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Mathématiques](https://img.shields.io/badge/Mathématiques-Licence-6C3BAA?style=for-the-badge)
 ![Mobilité](https://img.shields.io/badge/Mobilité-Internationale-00B3A4?style=for-the-badge)
-
+ 
 </div>
 
 ---
