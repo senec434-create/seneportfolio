@@ -61,7 +61,7 @@ Un **capteur de niveau de liquide** conçu pour des applications industrielles, 
 | **Ce que j'ai fait** | Conception et étude du dispositif, analyse des mesures et de leurs incertitudes |
 | **Notions clés** | Amplificateurs · filtres · physique des matériaux · électricité · incertitudes de mesure |
 | **Résultats** | <!-- Ajoute ici une courbe, un schéma ou une photo du montage --> |
-| **Documents** | 👉 [Voir le dépôt / rapport](docs/DETECTEUR-DE-NIVEAU-DE-LIQUIDE.pdf) |
+| **Documents** | 👉 [Voir le dépôt / rapport](https://github.com/senec434-create/seneportfolio/blob/main/DETECTEUR-DE-NIVEAU-DE%20LIQUIDE.pdf) |
 
 ---
 
