@@ -10,7 +10,6 @@
  
 
 
-*Des équations aux systèmes qui fonctionnent : je transforme les maths et la physique en solutions concrètes.*
 
 ![ENSEEIHT](https://img.shields.io/badge/ENSEEIHT-1ère_année-0B3D91?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
