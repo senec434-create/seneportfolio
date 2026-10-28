@@ -32,18 +32,18 @@
 > OBJECTIF         : Stage ingénieur (juin)
 > STATUT           : Systèmes en ligne ✅
 ```
-
-## 👨‍🚀 À PROPOS
-
+<img src="divider(1).png" width="100%">
+ 👨‍🚀 À PROPOS
+<img src="divider(1).png" width="100%">
 Passionné par l'**aéronautique, le spatial et l'énergie**, je me forme à l'ENSEEIHT après une classe préparatoire MPSI/MP et des licences de mathématiques. J'aime les problèmes qui mélangent **théorie et mise en œuvre** : modéliser, coder, mesurer, vérifier.
 
 Mon cap : une carrière d'ingénieur **à l'international**, au cœur des technologies qui font avancer les transports et l'énergie de demain.
 
 ---
-
-## 🧪 MISSIONS ACCOMPLIES
-
-### 🛸 Mission 01 · Reconnaissance de caractères manuscrits
+<img src="divider(1).png" width="100%">
+🧪 MISSIONS ACCOMPLIES
+<img src="divider(1).png" width="100%">
+🛸 Mission 01 · Reconnaissance de caractères manuscrits
 > *TIPE MPSI · Mathématiques & Informatique*
 
 Une **IA en Python** capable de reconnaître des caractères écrits à la main.
@@ -56,8 +56,13 @@ Une **IA en Python** capable de reconnaître des caractères écrits à la main.
 | **Résultats** | <!-- Ajoute ici ton taux de reconnaissance ou une image de démo --> |
 | **Rapport/codes** | 👉 [Voir le dépôt](https://github.com/TON-PSEUDO/NOM-DU-DEPOT-RECONNAISSANCE) |
 
-### ⚡ Mission 02 · Détecteur de niveau de liquide pour l'industrie
-> *TIPE MP · Physique*
+<img src="divider(1).png" width="100%">
+
+ ### ⚡ Mission 02 · Détecteur de niveau de liquide pour l'industrie
+ 
+ <img src="divider(1).png" width="100%">
+ 
+ >*TIPE MP · Physique*
 
 Un **capteur de niveau de liquide** conçu pour des applications industrielles, basé sur des **oscillateurs quasi sinusoïdaux**.
 | | |
@@ -67,8 +72,12 @@ Un **capteur de niveau de liquide** conçu pour des applications industrielles, 
 | **Documents-1** | 👉 [Voir le rapport](https://github.com/senec434-create/seneportfolio/blob/main/DETECTEUR-DE-NIVEAU-DE%20LIQUIDE.pdf) |
 | **Documents-2** | 👉[Voir la présentation ](https://github.com/senec434-create/seneportfolio/blob/main/Diapo.3.21.pdf)
 ---
+<img src="divider(1).png" width="100%">
 
 ### 🛸 Mission 03 · Reconstruction du jeu SNake 2000
+
+<img src="divider(1).png" width="100%">
+
 > *PROJET 1ÈRE ANNÉE  · Mathématiques & Informatique*
 
 Un **JEU SNAKE2000 LANGUAGE C** L'aventure d'un serpent qui se nourrit pour grandir en évitant les obstacles dans la savane .
@@ -81,9 +90,10 @@ Un **JEU SNAKE2000 LANGUAGE C** L'aventure d'un serpent qui se nourrit pour gran
 | **Rapport/codes** | 👉 [Voir le dépôt](https://github.com/TON-PSEUDO/NOM-DU-DEPOT-RECONNAISSANCE) |
 
 
+<img src="divider(1).png" width="100%">
 
 ## 🧰 ARSENAL
-
+<img src="divider(1).png" width="100%">
 | Domaine | Ce que je maîtrise |
 |---|---|
 | 💻 **Programmation** | Python et langage C (traitement d'images, probabilités, évaluation de modèles) |
@@ -95,35 +105,41 @@ Un **JEU SNAKE2000 LANGUAGE C** L'aventure d'un serpent qui se nourrit pour gran
 **🔭 En exploration :** mécanique des fluides · matériaux composites · systèmes d'énergie embarqués
 
 ---
+<img src="divider(1).png" width="100%">
 
 ## 🗺️ TRAJECTOIRE
-
+<img src="divider(1).png" width="100%">
 | Étape | Détail |
 |---|---|
 | 🎓 **ENSEEIHT (N7)** · Toulouse INP | Cycle ingénieur, 1ère année |
 | 📚 **Classes préparatoires** | MPSI puis MP, avec deux TIPE (voir missions ci-dessus) |
 | ➗ **Licences de mathématiques** | Université de Lille (L1, L2) · Université Paul Sabatier (L3) |
+<img src="divider(1).png" width="100%">
 
 **Expériences de terrain** (hôtellerie & restauration, 2024 → 2026) : valet de chambre en hôtels trois étoiles, agent d'entretien, agent polyvalent de restaurant. Du concret, de la rigueur et de l'autonomie, en parallèle des études.
 
+<img src="divider(1).png" width="100%">
 ---
+<img src="divider(1).png" width="100%">
 
 ## 🌌 HORS ORBITE
-
+<img src="divider(1).png" width="100%">
 - 🤝 **Bénévolat** · Action Solidaire : accompagnement de jeunes en difficulté dans leur vie sociale
 - 🎨 **Art & graphisme** · participation à la biennale d'art de mon collège
 - 🏸 **Badminton** · 🎵 **Musique**
 
 ---
+<img src="divider(1).png" width="100%">
 
 ## 🛠️ PROCHAINES MISSIONS
-
+<img src="divider(1).png" width="100%">
 - [ ] Décrocher un stage ingénieur (aéronautique ou énergie)
 - [ ] Choisir ma spécialisation à l'ENSEEIHT
 - [ ] Passer le TOEIC (2027)
 - [ ] Ajouter de nouveaux projets à ce dépôt
 
 ---
+<img src="divider(1).png" width="100%">
 
 ## 📡 ÉTABLIR LE CONTACT
 
