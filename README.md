@@ -75,6 +75,7 @@ Un **capteur de niveau de liquide** conçu pour des applications industrielles, 
 <img src="divider(1).png" width="100%">
 
 ### 🛸 Mission 03 · Reconstruction du jeu SNake 2000
+<img src="snake-banner.gif" width="100%">
 
 <img src="divider(1).png" width="100%">
 
