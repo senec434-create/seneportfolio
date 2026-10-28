@@ -59,6 +59,7 @@ Une **IA en Python** capable de reconnaître des caractères écrits à la main.
 <img src="divider(1).png" width="100%">
 
  ### ⚡ Mission 02 · Détecteur de niveau de liquide pour l'industrie
+ <img src="mission-02-oscillateur.gif" width="100%">
  
  <img src="divider(1).png" width="100%">
  
