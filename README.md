@@ -4,6 +4,7 @@
 <img src="banner(3).gif" width="100%">
 
 </div>
+ <div align="center">
 [photo de profil](https://github.com/senec434-create/seneportfolio/blob/main/photocheikhou2.jpg)
 ### Élève-ingénieur · ENSEEIHT (N7) Toulouse · Aéronautique & Énergie & ELectronique & electrotechnique & automatique 
 
