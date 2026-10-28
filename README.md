@@ -11,7 +11,7 @@
 
 
 
-<img src="hud.png" width="100%">
+<img src="chips.png" width="100%">
 
 ---
 <img src="divider(1).png" width="100%">
