@@ -1,4 +1,4 @@
-javascript
+
 // Génération d'un ciel étoilé animé
 const canvas = document.getElementById("stars");
 const ctx = canvas ? canvas.getContext("2d") : null;
