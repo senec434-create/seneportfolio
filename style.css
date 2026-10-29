@@ -151,4 +151,12 @@ footer > a:last-child { font-family: 'DM Mono', monospace; }
   footer { flex-wrap: wrap; }
   footer p { order: 3; width: 100%; }
 }
+.reveal {
+  opacity: 1 !important;
+  transform: none !important;
+  visibility: visible !important;
+}
 
+body {
+  background: #070914 !important;
+}
